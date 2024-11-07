@@ -2,7 +2,7 @@
 
 body {
     background-image: url(./img/fon.jpg);
-
+}
 .header {
     display: flex;
     justify-content: space-between;
